@@ -19,7 +19,7 @@ spark.executor.memory 2g
 ```
 
 ### The result
-1. With the above configuraton and environment, the spark job takes around 90 mininutes to finish
+1. With the above configuraton and environment, the spark job takes around 1.2h to finish
 
 
 2. The result sorted in descending order on ratio
