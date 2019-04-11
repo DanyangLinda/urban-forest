@@ -14,10 +14,13 @@
 2. Configuration property file
 ```
 spark.master spark://10.224.151.255:7077
+spark.executor.cores 2
+spark.executor.memory 2g
 ```
 
 ### The result
 1. With the above configuraton and environment, the spark job takes around 90 mininutes to finish
+
 
 2. The result sorted in descending order on ratio
 ```
